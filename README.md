@@ -1,4 +1,4 @@
-# E lection_Analysis
+# Election Analysis
 ## Overview of Election Audit
 
 A Colarado Board of Elections employee gave the following tasks to complete the election audit of a recent local congressional election. 
@@ -50,5 +50,6 @@ https://github.com/madihajaved/Election_Analysis/blob/main/Resources/output.png
 
 
 ## Election Audit Summary and Recommendation
-This script can be modified and used in future elections or for elections in other states. To use it for other states, a csv file in a similar format needs to be referenced to - so where election_results.csv is referenced that file name needs to reflect the new data file. 
-This can also be used for future elections and results can be saved in different output files. For  future election, instead of overwriting the current text file, a new text file can be created, and with the new data or csv file, the results can be saved there.  
+This script can be modified and used in future elections or for elections in other states. 
+1. To use it for other states, a csv file in a similar format needs to be referenced to - so where election_results.csv is referenced that file name needs to reflect the new data file. 
+2. This can also be used for future elections and results can be saved in different output files. For  future election, instead of overwriting the current text file, a new text file can be created, and with the new data or csv file, the results can be saved there.  
